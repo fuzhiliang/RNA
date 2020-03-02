@@ -5,3 +5,4 @@ RNA shell pipeline
 修改配置文件 rnaseq_pipeline.config.sh  
 运行： 
 sh rnaseq_pipeline.sh hg19_gff3_out_v3 >sh.log  
+upload 20200302
