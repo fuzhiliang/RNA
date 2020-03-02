@@ -68,6 +68,9 @@ subset(results_genes, results_genes$qval <=0.05)
 #plotTranscripts(ballgown::geneIDs(bg_chrX)[1729], bg_chrX,
 #                main=c('Gene XIST in sample ERR188234'), sample=c('ERR188234'))
 
+
+
 ## Plot average expression
+
 #plotMeans(ballgown::geneIDs(bg_chrX)[203], bg_chrX_filt, groupvar="sex", legend=FALSE)
 
